@@ -1,0 +1,5 @@
+Part A :
+    High-level modules should not depend on low-level modules. Both should depend on abstractions
+Part B:
+    Abstractions should not depend on details. Details should depend on abstractions.
+    [Means you should use interface while it is possible in place of concrete classes.]
